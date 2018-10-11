@@ -8,7 +8,7 @@ html {
 box-sizing: inherit;
 }
 
-  .cards {
+.cards {
     margin: 0;
       padding: 0;
   list-style-type: none;
@@ -42,7 +42,7 @@ box-sizing: inherit;
   margin-bottom: 1rem;
 }
 
-. cards dd {
+.cards dd {
   display: inline-block;
   margin: 0;
   min-width: 9em;
