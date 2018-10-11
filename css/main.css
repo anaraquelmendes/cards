@@ -28,7 +28,7 @@ box-sizing: inherit;
 
 .cards img {
   display: block;
-  margin: 0 auto 1 rem;
+  margin: 0 auto 1rem;
 }
 
 .cards strong {
@@ -42,7 +42,7 @@ box-sizing: inherit;
   margin-bottom: 1rem;
 }
 . cards dd {
-  display: inline-block:
+  display: inline-block;
   margin: 0;
   min-width: 9em;
 }
