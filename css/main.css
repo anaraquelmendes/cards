@@ -38,8 +38,14 @@ box-sizing: inherit;
   font-size: 1.125rem;
 }
 
-.cards.dl {
+.cards dl {
   margin-bottom: 1rem;
+}
+
+.cards dt {
+  display: inline-block;
+  width: 6em;
+  font-style: italic;
 }
 
 .cards dd {
